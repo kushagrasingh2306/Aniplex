@@ -1,0 +1,134 @@
+body{
+    background-image: url("https://i.pinimg.com/1200x/40/ea/9c/40ea9c34484ddc8969e1f3d17da621bd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+.Otaku{
+    height: 100px;
+}
+nav{
+    display: flex;
+}
+.Genre{
+    position: relative;
+    right: 80px;
+    
+}
+h1{
+    position: relative;
+  color:rgb(241, 205, 113);
+  margin-left: 250px;
+  margin-top: 100px;
+  font-style: italic;
+  text-decoration: underline;
+  font-size: 50px;
+  left: 100px;
+  bottom: 100px;
+}
+.Action{
+    color: #fd0100;
+    font-size: 40px;
+    text-decoration: none;
+    margin: 10px;
+    margin-left: 170px;
+    padding-bottom: 150px;
+    font-family:"Shojumaru";
+}
+.Action:hover{
+    cursor: pointer;
+    color: #ff4f4f;
+}
+.Adventure{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    margin: 10px;
+    margin-left: 110px;
+    font-family:"Shojumaru";
+}
+.Sports{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    margin: 10px;
+    margin-left: 120px;
+}
+.Fantasy{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    margin:10px;
+    margin-left: 170px;
+    font-family:"Shojumaru";
+}
+.Sci-Fi{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    margin: 10px;
+    margin-left: 140px;
+    font-family:"Shojumaru";
+}
+.Drama{
+    color: #fd0100;
+    font-size: 40px;
+    text-decoration: none;
+    margin: 10px;
+    margin-left: 120px;
+    font-family:"Shojumaru";
+}
+.Romance{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    margin:10px;
+    margin-left: 170px;
+    font-family:"Shojumaru";
+}
+.Psychological{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    margin: 10px;
+    margin-left: 110px;
+    font-family:"Shojumaru";
+}
+.Isekai{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    margin: 10px;
+    margin-left: 120px;
+    font-family:"Shojumaru";
+}
+table,td{
+    position: relative;
+    padding: 20px;
+    bottom: 60px;
+}
+header{
+    position: absolute;
+}
+#img1{
+    width: 500px;
+    margin-left: -150px;
+    margin-top: -140px;
+}
+/* #Akatsuki{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    background-color: aqua;
+    border: 2px solid black;
+} */
+#img2{
+    position: absolute;
+    width: 350px;
+    top: 240px;
+    left: 500px;
+}
