@@ -1,0 +1,67 @@
+*{
+    margin-left: 10px;
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.Otaku{
+    height: 90px;
+}
+h1{
+    color: red;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 60px;
+}
+#piece{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.piece{
+    display: flex;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+#naruto{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.naruto{
+    display: flex;
+}
+#bleach{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.bleach{
+    display: flex;
+}
+#ichigo{
+    margin-top: 30px;
+}
+#HxH{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.hunter{
+    display: flex;
+}
+#Vinland{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.Vinland{
+    display: flex;
+}
+#saga{
+    margin-top: 40px;
+}
