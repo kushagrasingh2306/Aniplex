@@ -1,0 +1,91 @@
+*{
+    margin-left: 10px;
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.Otaku{
+    height: 90px;
+}
+.Otaku:hover{
+    height: 100px;
+}
+h1{
+    color: red;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 60px;
+}
+#opm{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.opm{
+    display: flex;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+#aot{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 100px;
+}
+.aot{
+    display: flex;
+}
+#demon{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 140px;
+}
+.demon{
+    display: flex;
+}
+#dbz{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 180px;
+}
+.dbz{
+    display: flex;
+}
+#one{
+    margin-top:-10px
+}
+#attack{
+    margin-top: -10px;
+}
+#demon_img{
+    width: 500px;
+}
+#chainsaw{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 170px;
+}
+.Chainsaw{
+    display: flex;
+}
+#opm_img:hover{
+    /* box-shadow: 10px 10px 5px rgb(96, 77, 29); */
+    width: 520px;
+    height: auto;
+}
+/* #opm_img {
+    position: absolute;
+}
+#One-Punch {
+    position: relative;
+    left: 490px;
+} */
+/* div img {
+    position: absolute;
+}
+div h2 {
+    position: relative;
+    left: 550px; */
