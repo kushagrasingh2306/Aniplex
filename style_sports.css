@@ -1,0 +1,79 @@
+*{
+    margin-left: 10px;
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.Otaku{
+    height: 90px;
+}
+.Otaku:hover{
+    height: 100px;
+}
+h1{
+    color: red;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 60px;
+}
+#haikyu{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.haikyu{
+    display: flex;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+#volly{
+    margin-top: 30px;
+}
+#bluelock{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.bluelock{
+    display: flex;
+}
+#blue{
+    margin-top: 45px;
+}
+#kuroko{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.kuroko{
+    display: flex;
+}
+#basket{
+    margin-top: 30px;
+}
+#aoashi{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.aoashi{
+    display: flex;
+}
+#football{
+    margin-top: 35px;
+}
+#cars{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.cars{
+    display: flex;
+}
+#mf{
+    margin-top: 40px;
+}
