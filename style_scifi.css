@@ -1,0 +1,65 @@
+*{
+    margin-left: 10px;
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.Otaku{
+    height: 90px;
+}
+h1{
+    color: red;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 60px;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+#geass{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.geass{
+    display: flex;
+}
+#code{
+    margin-top: 30px
+}
+#revengers{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.revengers{
+    display: flex;
+}
+#tokyo{
+    margin-top: 20px
+}
+#stone{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.stone{
+    display: flex;
+}
+#dr{
+    margin-top: 20px
+}
+#promise{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.promise{
+    display: flex;
+}
+#never{
+    margin-top: 20px
+}
