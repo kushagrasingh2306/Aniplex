@@ -1,0 +1,80 @@
+*{
+    margin-left: 10px;
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.Otaku{
+    height: 90px;
+}
+h1{
+    color: red;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 60px;
+}
+#clover{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.clover{
+    display: flex;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+#black{
+    margin-top: 35px;
+}
+#solo{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.solo{
+    display: flex;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+#level{
+    margin-top: 35px
+}
+#jjk{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.jjk{
+    display: flex;
+}
+#kaisen{
+    margin-top: 25px
+}
+#metal{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.metal{
+    display: flex;
+}
+#full{
+    margin-top: 35px
+}
+#mha{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.mha{
+    display: flex;
+}
+#hero{
+    margin-top: 20px
+}
