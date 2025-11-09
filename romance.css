@@ -1,0 +1,65 @@
+*{
+    margin-left: 10px;
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.Otaku{
+    height: 90px;
+}
+h1{
+    color: red;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 60px;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+#silent{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.silent{
+    display: flex;
+}
+#voice{
+    margin-top: 5px
+}
+#name{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.name{
+    display: flex;
+}
+#your{
+    margin-top: 5px
+}
+#pancreas{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.pancreas{
+    display: flex;
+}
+#eat{
+    margin-top: 5px
+}
+#centi{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.centi{
+    display: flex;
+}
+#second{
+    margin-top: 5px
+}

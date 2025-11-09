@@ -1,0 +1,65 @@
+*{
+    margin-left: 10px;
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.Otaku{
+    height: 90px;
+}
+h1{
+    color: red;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 60px;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+#shield{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.shield{
+    display: flex;
+}
+#rise{
+    margin-top: 5px
+}
+#dororo{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.dororo{
+    display: flex;
+}
+#doro{
+    margin-top: 5px
+}
+#elite{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.elite{
+    display: flex;
+}
+#class{
+    margin-top: 25px
+}
+#diaries{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.diaries{
+    display: flex;
+}
+#apothy{
+    margin-top: 25px
+}

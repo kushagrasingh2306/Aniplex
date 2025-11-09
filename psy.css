@@ -1,0 +1,43 @@
+*{
+    margin-left: 10px;
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.Otaku{
+    height: 90px;
+}
+h1{
+    color: red;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 60px;
+}
+h2{
+    color: white;
+    font-size: 30px;
+}
+#death{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.death{
+    display: flex;
+}
+#note{
+    margin-top: 5px
+}
+#monster{
+    color: goldenrod;
+    text-align: left;
+    margin-top: 40px;
+}
+.monster{
+    display: flex;
+}
+#mons{
+    margin-top: 5px
+}

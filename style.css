@@ -49,12 +49,21 @@ h1{
     margin-left: 110px;
     font-family:"Shojumaru";
 }
+.Adventure:hover{
+    cursor: pointer;
+    color: #ff4f4f;
+}
 .Sports{
     color: white;
     font-size: 40px;
     text-decoration: none;
     margin: 10px;
     margin-left: 120px;
+    font-family: "Shojumaru";
+}
+.Sports:hover{
+    cursor: pointer;
+    color: #ff4f4f;
 }
 .Fantasy{
     color: white;
@@ -81,7 +90,7 @@ h1{
     font-family:"Shojumaru";
 }
 .Romance{
-    color: white;
+    color: red;
     font-size: 40px;
     text-decoration: none;
     margin:10px;
